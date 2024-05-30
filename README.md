@@ -1,1 +1,1 @@
-# Icons useds for Solide Projects
+# Icons used for Solide Projects

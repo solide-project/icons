@@ -1,0 +1,16 @@
+<svg viewBox="458.436 223.698 54.7 42" width="54.7" height="42" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19.7165" y1="17.536" x2="13.8877" y2="50.5693" gradientTransform="matrix(1, 0, 0, -1, 458.435889, 277.69823)">
+    <stop offset="0.1" style="stop-color:#194AAD"></stop>
+    <stop offset="0.5" style="stop-color:#248FCB"></stop>
+    <stop offset="0.8" style="stop-color:#2BBFDF"></stop>
+  </linearGradient>
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1810.073" y1="325.6888" x2="1817.7822" y2="369.4051" gradientTransform="matrix(-1, 0, 0, 1, 2310.225928, -101.471783)">
+    <stop offset="0.1" style="stop-color:#194AAD"></stop>
+    <stop offset="0.5" style="stop-color:#248FCB"></stop>
+    <stop offset="0.8" style="stop-color:#2BBFDF"></stop>
+  </linearGradient>
+  <path class="st1" d="M 459.736 240.098 C 458.836 240.098 458.436 240.498 458.436 241.298 C 458.436 241.298 458.436 259.298 458.436 261.898 C 458.436 262.798 458.836 263.098 459.736 263.098 C 469.636 263.198 481.736 254.398 491.736 247.498 L 491.736 223.698 C 481.836 230.498 469.436 240.198 459.736 240.098 Z" style="fill: url('#SVGID_1_');" transform="matrix(1, 0, 0, 1, -7.105427357601002e-15, -7.105427357601002e-15)"></path>
+  <path class="st2" d="M 511.836 249.398 C 512.736 249.398 513.136 248.998 513.136 248.198 C 513.136 248.198 513.136 230.198 513.136 227.598 C 513.136 226.698 512.736 226.398 511.836 226.398 C 501.836 226.298 489.836 235.098 479.836 241.998 L 479.836 265.698 C 489.736 258.898 502.136 249.198 511.836 249.398 Z" style="fill: url('#SVGID_2_');" transform="matrix(1, 0, 0, 1, -7.105427357601002e-15, -7.105427357601002e-15)"></path>
+  <path class="st3" d="M 491.736 247.498 L 491.736 233.898 C 487.636 236.498 483.536 239.298 479.736 241.898 L 479.736 255.498 C 483.936 252.898 487.936 250.098 491.736 247.498 Z" style="fill: rgb(25, 74, 173);" transform="matrix(1, 0, 0, 1, -7.105427357601002e-15, -7.105427357601002e-15)"></path>
+</svg>
